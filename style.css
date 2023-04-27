@@ -1,0 +1,24 @@
+.container{
+    margin-left: 35%;
+    margin-top: 15%;
+}
+
+#timer-display{
+    /* border: 2px solid blueviolet; */
+    width: 60%;
+    height: 50px;
+    text-align: center;
+    font-size: 35px;
+}
+
+
+button{
+    margin-top: 10%;
+    border: 2px solid rgb(255, 255, 255);
+    width: 20%;
+    height: 50px;
+}
+
+span{
+    margin-left: 90px;
+}
